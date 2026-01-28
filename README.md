@@ -1,2 +1,2 @@
 # machine-learning
-my first ML 
+my first ML project 
